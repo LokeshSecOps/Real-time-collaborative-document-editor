@@ -1,7 +1,5 @@
 # Real-time-collaborative-document-editor
 
-# 📝 Real-Time Collaborative Document Editor
-
 A full-stack web application that allows multiple users to edit documents simultaneously in real time.
 
 This project, developed as Task 3 for the CodTech IT Solutions internship, is a full-stack Real-Time Collaborative Document Editor designed to enable seamless multi-user editing of rich text documents. The goal was to build a dynamic, responsive, and scalable application that allows multiple users to edit the same document simultaneously, with changes reflected in real time across all connected clients.
